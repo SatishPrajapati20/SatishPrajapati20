@@ -17,7 +17,7 @@
 - 💡 Passionate about building **real-time dashboards, enterprise modules, and smart web portals**
 - 🧩 Strong in **MVVM Architecture, Repository Pattern, and REST API Integration**
 - 💬 Ask me about **.NET, Blazor, ASP.NET Core, SQL Server, or API Integration**
-- 🌐 Portfolio: **[Click Here](https://portfolio.coursevita.com/satish-prajapati-portfolio)**
+- 🌐 Portfolio: **[Click Here](https://tinyurl.com/SatishPrajapati)**
 - 📫 Reach me on **[LinkedIn](https://linkedin.com/in/satishprajapati20)**
 - ⚡ Fun fact: *I love turning complex business logic into clean, scalable code.*
 
